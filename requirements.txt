@@ -1,0 +1,8 @@
+gradio
+tensorflow==2.12.0
+numpy
+librosa
+soundfile
+scikit-learn
+joblib
+scipy
